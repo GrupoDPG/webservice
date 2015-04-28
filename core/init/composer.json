@@ -1,0 +1,9 @@
+{
+    "config": {
+        "vendor-dir": "../vendor"
+    },
+    "require": {
+        "silex/silex": "2.0.*@dev",
+        "respect/validation": "0.7.*@dev"
+    }
+}
